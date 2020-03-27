@@ -10,5 +10,6 @@ public class commitPay {
         System.out.println("支付模块");
         System.out.println("支付模块代码已经写完了");
         System.out.println("支付代码进行了更新");
+        System.out.println("支付代码进行更新，4.0");
     }
 }
