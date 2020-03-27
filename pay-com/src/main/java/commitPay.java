@@ -8,5 +8,6 @@
 public class commitPay {
     public static void main(String[] args) {
         System.out.println("支付模块");
+        System.out.println("继续开发支付代码3.0");
     }
 }
